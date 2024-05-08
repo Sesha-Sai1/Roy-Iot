@@ -1,0 +1,88 @@
+[
+    {
+        "Timestamp": "07-05-2024 04:01",
+        "temperature": 78.6,
+        "humidity": 86.9,
+        "pressure": 2793.5
+    },
+    {
+        "Timestamp": "08-05-2024 04:02",
+        "temperature": 88.6,
+        "humidity": 96.9,
+        "pressure": 1793.5
+    },
+    {
+        "Timestamp": "09-05-2024 04:03",
+        "temperature": 58.6,
+        "humidity": 76.9,
+        "pressure": 2293.5
+    },
+    {
+        "Timestamp": "10-05-2024 04:04",
+        "temperature": 78.6,
+        "humidity": 86.9,
+        "pressure": 2993.5
+    },
+    {
+        "Timestamp": "11-05-2024 04:05",
+        "temperature": 72.6,
+        "humidity": 81.9,
+        "pressure": 2768.5
+    },
+    {
+        "Timestamp": "12-05-2024 04:06",
+        "temperature": 90.6,
+        "humidity": 89.9,
+        "pressure": 2713.5
+    },
+    {
+        "Timestamp": "13-05-2024 04:07",
+        "temperature": 73.6,
+        "humidity": 80.9,
+        "pressure": 2113.5
+    },
+    {
+        "Timestamp": "14-05-2024 04:08",
+        "temperature": 68.6,
+        "humidity": 72.9,
+        "pressure": 2143.5
+    },
+    {
+        "Timestamp": "15-05-2024 04:09",
+        "temperature": 87.6,
+        "humidity": 82.9,
+        "pressure": 2777.5
+    },
+    {
+        "Timestamp": "16-05-2024 04:10",
+        "temperature": 72.6,
+        "humidity": 85.9,
+        "pressure": 2420.5
+    },
+    {
+        "Timestamp": "17-05-2024 04:11",
+        "temperature": 98.6,
+        "humidity": 96.9,
+        "pressure": 2425.5
+    },
+    {
+        "Timestamp": "18-05-2024 04:12",
+        "temperature": 66.5,
+        "humidity": 78.6,
+        "pressure": 2873.5
+    },
+    {
+        "Timestamp": "19-05-2024 04:13",
+        "temperature": 70.6,
+        "humidity": 89.9,
+        "pressure": 2653.5
+    },
+    {
+        "Timestamp": "20-05-2024 04:14",
+        "temperature": 69.6,
+        "humidity": 81.9,
+        "pressure": 2792.5
+    }
+    
+
+]

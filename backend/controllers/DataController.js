@@ -3,7 +3,6 @@ const dataModel = require("../models/Data");
 const postData = async (req, res) => {
   try {
     const { temperature, humidity, pressure, timestamp } = req.body;
-    console.log(req.body);
 
     const newData = new dataModel({
       temperature,

@@ -4,7 +4,7 @@ import axios from "axios";
 const DataResource = () => {
   const generateData = () => {
     return {
-      timestamp: Date.now(),
+      timestamp: new Date(),
       temperature: (Math.random() * 100).toFixed(2),
       humidity: (Math.random() * 100).toFixed(2),
       pressure: (Math.random() * 2000).toFixed(2),

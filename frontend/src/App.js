@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import DataResource from "./components/DataResource";
 import ShowMap from "./components/ShowMap";
